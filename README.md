@@ -35,6 +35,7 @@ To predict general BBB using our model, run: 
 After entering predict.py, you will enter the data you need to predict and the csv file that stores the predicted results in turn.
 
 **Example:**
+
 `python predict.py test.fasta result.csv`
 
 # Announcements

@@ -13,6 +13,7 @@ In this work, we present BBBPred, a novel bioinformatics tool that allows users 
 <br />
 
 ![draft](https://github.com/loneMT/BBBPred/blob/master/codes/flow.jpg)
+<br />
 
 
 # Installation

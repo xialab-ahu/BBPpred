@@ -13,7 +13,6 @@ In this work, we present BBBPred, a novel bioinformatics tool that allows users 
 
 ![draft](https://github.com/loneMT/BBBPred/blob/master/codes/flow.jpg)
 
-<br />
 
 # Installation
 * Install Python 3.5 in Linux and Windows.

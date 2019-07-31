@@ -62,7 +62,7 @@ where '>Seq1' represents the fasta id and the second line is the protein sequenc
 
 2- Download the model files by running the following command: <br />
 
-git clone https://github.com/loneMT/BBBPred.git <br />
+'git clone https://github.com/loneMT/BBBPred.git' <br />
 
 3- Run the following two commands after downloading the model files: <br />
 * unzip download <br />

@@ -10,7 +10,7 @@ web-server is also available at  [http://bioinfo.ahu.edu.cn:8080/BBBpred/]
 
 ### Results:
 In this work, we present BBBPred, a novel bioinformatics tool that allows users to rapidly and accurately identify the blood–brain barrier peptide. BBBPred was developed by using the most suitable machine learning models combined with optimized feature representations. We evaluated BBBPred based on well-prepared up-to-date benchmark and independent test datasets. The independent test proved that BBBPred have well prediction performance for BBB peptides prediction. In summary, our tool provides users with high-quality predicted blood-brain barrier peptides for hypothesis generation and biological validation. <br />
-
+<br />
 
 ![draft](https://github.com/loneMT/BBBPred/blob/master/codes/flow.jpg)
 

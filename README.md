@@ -43,7 +43,7 @@ To predict general BBB using our model, run: 
 `python predict.py [custom predicting data in fasta format]  [ predicting results in csv format]`
 
 
-# Run DeepCrystal on a New Test File (Fasta file)
+# Run BBBPred on a New Test File (Fasta file)
 
 1- Protein sequences have to be saved in a fasta format similar to following format: <br />
 

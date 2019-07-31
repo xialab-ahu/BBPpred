@@ -2,7 +2,8 @@
 BBBPred uses machine learning to predict BBB. Users can run program with specified protein sequences.
 
 ![draft](https://github.com/loneMT/BBBPred/blob/master/codes/flow.jpg)
-<br />
+
+
 Figure 1. Framework of BBB peptides prediction using machine learning methods. The 1st stage is dataset preparation to form training dataset and independent dataset; The 2nd stage is feature encoding; The 3rd stage is to train and evaluate prediction models. The independent test is usually to validate the ability of a trained model. The 4th stage is to compare the model performance. The 5th is to construction our user friendly webserver for our BBB peptide prediction tool.
 
 <br />

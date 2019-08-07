@@ -39,7 +39,7 @@ sudo apt install python3-pip
 * After that, users can change the commands into:
 ```
 pip install numpy
-pip install biopython ==1.73 
+pip install biopython==1.73 
 pip install sklearn
 ```
 

@@ -1,4 +1,4 @@
-# BBBPred
+# BBPpred
 BBBPred uses machine learning to predict BBB. Users can run program with specified protein sequences.
 
 ![draft](https://github.com/loneMT/BBBPred/blob/master/codes/flow.jpg)
